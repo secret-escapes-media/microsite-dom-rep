@@ -1,0 +1,54 @@
+.btn {
+  position: relative;
+  display: inline-block;
+  padding: $s1 $s4;
+  color: $white;
+  font-weight: 700;
+  font-size: $s-1;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  border-radius: 3px;
+  cursor: pointer;
+  @include transition;
+  &--sm { padding: $s0 $s3; font-size: $s-2; }
+  &--lg { padding: $s2 $s6; font-size: $s-1; }
+  &--orange { background-color: $orange;
+    &:hover { background-color: $orange-dark; }
+  }
+  &--turquoise { background-color: $turquoise;
+    &:hover { background-color: $turquoise-dark; }
+  }
+  &--outline {
+    color: inherit;
+    &:before {
+      // button border within original padding
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      border-width: 1px;
+      border-style: solid;
+      border-radius: inherit;
+      @include transition;
+    }
+  }
+  &--outline-orange {
+    &:before { border-color: $orange; }
+    &:hover {
+      color: $white;
+      background-color: $orange;
+      &:before { border-color: $orange; }
+    }
+  }
+  &--outline-turquoise {
+    &:before { border-color: $turquoise; }
+    &:hover {
+      color: $white;
+      background-color: $turquoise;
+      &:before { border-color: $turquoise; }
+    }
+  }
+}
