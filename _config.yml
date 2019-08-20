@@ -1,18 +1,18 @@
 # Site settings
-title: Tourist Board
+title: Dominikanische Republik
 client:
-  name: Client Name
+  name: Facettenreiches Karibikparadies
   link: "#client-name"
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Lassen Sie sich von der Vielfalt der grünen Insel verzaubern, die neben Traumstränden, Merengue und Rum auch Aufregendes für Abenteuerurlauber, intensive Kulturerlebnisse und imposante Naturkulissen zu bieten hat
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/tourist-board" # the subpath of your site, e.g. /blog/
-img:     "/tourist-board/_assets/img"
-css:     "/tourist-board/_assets/css"
-js:      "/tourist-board/_assets/js"
+baseurl: "/de/dominikanische-republik" # the subpath of your site, e.g. /blog/
+img:     "/de/dominikanische-republik/_assets/img"
+css:     "/de/dominikanische-republik/_assets/css"
+js:      "/de/dominikanische-republik/_assets/js"
 
 
 # Build settings

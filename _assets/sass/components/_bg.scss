@@ -4,6 +4,8 @@
   &--white { background-color: $white; }
   &--light { background-color: $grey-lightest; }
   &--dark  { background-color: $grey-dark; }
+  &--darkblue  { background-color: $bv-darkblue; }
+  &--lightblue  { background-color: $bv-lightblue; }
   &--img   { @include background-attributes; }
   &__fixed {
     position: relative;

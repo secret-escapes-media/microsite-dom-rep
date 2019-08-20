@@ -1,14 +1,17 @@
 // general modifier styles for text
 
 .text {
+  font-family: $font-01;
   // sizes
-  &--xxl { font-size: 1.2rem; line-height: 1.33; letter-spacing: 0; }
-  &--xl  { font-size: 1.1rem; letter-spacing: 0; }
+  &--xxxl { font-size: 1.3rem; line-height: 1.33; letter-spacing: 0; }
+  &--xxl { font-size: 1.2rem; line-height: 1.3; letter-spacing: 0; }
+  &--xl  { font-size: 1.1rem; line-height: 1.2; letter-spacing: 0; }
   &--lg  { font-size: 1.05rem; letter-spacing: 0; }
   &--sm  { font-size: .8rem; }
 
   // styles
   &--italic       { font-style: italic; }
+  &--lighter      { font-weight: 200; }
   &--light        { font-weight: 300; }
   &--normal       { font-weight: 400; }
   &--bold         { font-weight: 600; }
@@ -18,11 +21,13 @@
   // colours
   &--white { color: $grey-lightest; }
   &--black { color: $grey-dark; }
+  &--darkblue { color: $bv-darkblue; }
 
   // alignment
   &--left   { text-align: left; }
   &--right  { text-align: right; }
   &--center { text-align: center; }
+  &--justify { text-align: justify; }
   @include bp($lg) {
     &--bp-left   { text-align: left; }
     &--bp-right  { text-align: right; }

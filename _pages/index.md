@@ -3,13 +3,13 @@ layout: single-page
 id: overview
 nav: true
 nav-order: 1
-title: Overview
+title: Facettenreiches Karibikparadies
 
 banner:
-  title: Desti&shy;nation Name
-  attribution: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+  title: "Destination: DomRep"
+  title-sub: Facettenreiches Karibikparadies
 
-primary-cta:
-  label: Primary Call To Action
-  link: "#promo"
+intro: "Sie kennen die Dominikanische Republik nur als Katalog-Reiseziel für Pauschaltouristen? Lassen Sie sich von der Vielfalt der grünen Insel verzaubern, die neben Traumstränden, Merengue und Rum auch Aufregendes für Abenteuerurlauber, intensive Kulturerlebnisse und imposante Naturkulissen zu bieten hat. Mit exklusiven Hotels und Resorts runden wir Ihren Traumurlaub ab."
+
+
 ---

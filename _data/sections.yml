@@ -1,35 +1,29 @@
 - id: one
-  title: Section one
-  nav-title: One
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  path: abenteuer
+  title: Aktivitäten für Abenteurer
+  nav-title: Aktivitäten für Abenteurer
+  description: "Verabschieden Sie sich vom Klischeebild des Pauschaltourismus, für das die Dominikanische Republik gerne herhalten muss. Wer auch unter Palmen und mit Karibikfeeling fit und aktiv bleiben möchte, für den hat Hispaniolas Osten viel zu bieten. Steigen Sie in Wanderstiefeln durch den Tropenwald auf zum höchsten Gipfel der Karibik oder –  ganz im Gegenteil –  in spektakuläre Höhlen mit Felsmalereien und Lagunen unter die Erde. Kommen Sie im Passatwind vor Cabarete dem Himmel beim Kite-Surfing rasant ein wenig näher und wagen Sie den Sprung in malerische Wasserfälle mitten im Urwald. Es erwarten Sie aufregende Abenteuer."
   link: "#section-link"
+  tip-title: "Adrenalin im WasserfallPark 27 Charcos de Damajagua"
+  tip-content: "Es erwartet Sie Nervenkitzel pur im Urwald von Damajagua, etwa eine Stunde von Puerto Plata entfernt. Hier hat die Natur 27 spektakuläre, smaragdgrüne Wasserfälle in eine felsige Waldlandschaft gemeißelt – und diese können im entsprechend benannten Wasserfallpark 27 Charcos besucht werden. Allerdings haben nur die körperlich Fittesten auch die Chance, den 27. Wasserfall zu erreichen. Zusammen mit erfahrenen Guides und gesichert mit Gurt und Helm geht eine Führung durch den Park nämlich quer durch die Wasserfälle. Auf einer normalen Tour wird für gewöhnlich der 7. Wasserfall erreicht. Springen oder Rutschen, das ist hier die Frage."
 
   pois:
     items:
 
-      - id: one-first-poi
-        title: One First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: poi-1-1
+        title: Hoch auf den Pico&nbsp;Duarte
+        copyright:
+        description: "Mit 3087 Metern ist der Pico Duarte zwischen den beiden National&shy;parks Armando Bermúdez und José del Carmen Ramírez der höchste Berg der Antillen. Unter den Ein&shy;wohnern gilt er als sagen&shy;umrankter Zauber&shy;berg und eine Besteigung gleicht für sie einer Wall&shy;fahrt, bei der Mythen mit eigenen Augen gesehen werden können. Auch sport&shy;lichen Aktiv&shy;urlaubern präsentiert sich der Pico Duarte mit viel Magie: In Zwei- oder Drei&shy;tages&shy;touren durch&shy;wandern Sie hier dichte Regen- und Nebel&shy;wälder, weite Hoch&shy;plateaus und bizarre Fels&shy;land&shy;schaften bis zum gran&shy;diosen Gipfel&shy;panorama. Tritt&shy;sichere Maul&shy;tiere zum Trans&shy;port von Ver&shy;pflegung und Gepäck und erfahrene Führer begleiten das Abenteuer auf Wunsch."
 
-      - id: one-second-poi
-        title: One Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: poi-1-2
+        title: Spektakuläre Höhlen
+        copyright:
+        description: "Die dominikanische Republik ist zwar ein klassisches Sonnen&shy;ziel, aber Sie verpassen etwas, wenn Sie die unter&shy;irdischen Attrak&shy;tionen des Insel&shy;staates mit dem umfang&shy;reichsten Höhlen&shy;&shy;system der Karabik unbeachtet lassen. Urein&shy;wohner nutzten die Höhlen als Zuflucht&shy;orte oder für Rituale und auch heute noch kann man zahlreiche Malereien und Fels&shy;ritzungen bestaunen. Von entspannten Boots&shy;&shy;touren durch die Höhlen im National&shy;park Los Tres Ojos, über Tauch&shy;exkur&shy;sionen in smaragd&shy;grünen Süßwasser&shy;lagunen bis zum aben&shy;teuer&shy;lichem Abseilen im Stil von Indiana Jones in die Cueva Fun Fun: Für jedes Alter und jeden Fitness&shy;grad gibt es Spannendes zu erleben."
 
-      - id: one-third-poi
-        title: One Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
-
-      - id: one-fourth-poi
-        title: One Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: poi-1-3
+        title: Surfen & Kiten
+        copyright:
+        description: "Sonne auf der Haut, eine frische Brise im Haar und die Wellen unter sich: Windsport lässt sich sowohl an der Atlantikküste als auch am Karibischen Meer exzellent praktizieren. Cabarete an der Nordküste gilt als das Mekka des Surfsports und als eines der besten Kitesurf-Reviere der Welt. Viele Surfschulen mit renommierten Lehrern stehen Anfängern wie Profis offen und der konstante Passatwind sorgt dafür, dass niemand eine Zwangspause einlegen muss. Und wer es doch lieber klassischer mag: Mit dem Traumstrand Playa Encuentro und wunderschönen (Hochsee-)Angelgebieten in der Nähe ist Cabarete ein attraktives Urlaubsziel für Aktive."
 
 
 
@@ -38,37 +32,31 @@
 
 
 - id: two
-  title: Section Two
-  nav-title: Two
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  path: nachhaltigkeit
+  title: Nachhaltiger Tourismus
+  nav-title: Nachhaltiger Tourismus
+  description: "Auch in der Karibik ist Green Travel und Ökotourismus längst Thema. Verantwortung für den Schutz von Natur und Kultur übernehmen dabei Besucher wie auch Einheimische gleichermaßen. Informieren Sie sich über den nachhaltigen Anbau von Kakao oder Kaffee bei der Besichtigung örtlicher Plantagen – und kommen Sie bei der anschließenden Verköstigung mit Ihren Gastgebern ins Gespräch. Erleben Sie, wie mit offizieller Unterstützung der Regierung der Dominikanischen Republik der Schutz der Wale, die jährlich zur Paarung an die Ostküste kommen, in einem international ausgezeichneten Online-Marketingprojekt geschieht. Und nicht zuletzt: Fühlen Sie sich bei einer Tour durch die Mangroven oder den letzten, noch verbliebenen Regenwald auf der Insel im wunderschönen Nationalpark Los Haitises in eine andere, intaktere Welt zurückversetzt."
   link: "#section-link"
+  tip-title: "Bio-Kaffee vom Fuße des Pico&nbsp;Duarte"
+  tip-content: "Gleich am Fuße des Pico Duarte im malerischen Hochland liegt Jarabacoa, eingerahmt von wasserreichen Flüssen. Schon seit den 40er Jahren werden auf der Hacienda Monte Alto Kaffeebohnen angebaut und verarbeitet. Heute werden die Kaffeebauern von der Regierung und ökologischen Initiativen unterstützt, die eine Abkehr vom Kaffeeanbau vermeiden möchten, denn dies hätte Abholzung und Bodenerosion zur Folge. Dadurch entsteht der Café de Monte Alto heute in Bio-Produktion und davon können Sie sich in der gleichnamigen Rösterei Café de Monte Alto auf einer Besichtigungstour mit eigenen Augen versichern. Jede Tour endet mit einer Verkostung frisch zubereiteter Kaffeesorten."
 
   pois:
     items:
 
-      - id: two-first-poi
-        title: Two First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: poi-1-1
+        title: Auf den Spuren der Schokolade
+        copyright:
+        description: "Lange bevor die ersten Europäer den amerikanischen Kontinent betraten, wurden Kakaopflanzen aus Südamerika hier kultiviert und angebaut. Aber nicht nur, weil die Schokolade von der Karibikinsel mehrfach schon als beste der Welt ausgezeichnet wurde, lohnt sich ein näherer Einblick in die Kakao- und Schokoladenproduktion. Der Kakao-Pfad auf der Hacienda Cufa in der Biobauern-Gemeide Guananico zeigt in sieben Stationen die Geschichte, die Bio-Plantagenfelder und nicht zuletzt die Verarbeitung der braunen Bohne in süße, wohlschmeckende Riegel. Für echte Schokoladen-Fans gibt es hier sogar ein Schoko-Spa."
 
-      - id: two-second-poi
-        title: Two Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: poi-1-2
+        title: Los Haitises National&nbsp;Park
+        copyright:
+        description: "Die Taino, deren Malereien immer noch in den zahlreichen Höhlen im 1000 qm großen Nationalpark in der Bucht von Samaná zu finden sind, gaben Los Haitises seinen heutigen Namen: So bezeichneten die Ureinwohner der Dominikanischen Republik die hochaufragenden, bewaldeten Felsformationen entlang der Küste. Ebenso spektakulär: die ausgedehnten Mangroven, Lebensraum für zahlreiche seltene Tier-  und Pflanzenarten. Geführte Touren werden von Samaná aus angeboten. Nicht zuletzt kann die Regenwaldkulisse, die auch für den Film Jurassic Park den passenden Background lieferte, auch ganz individuell mit dem Paddelboot in den Mangrovenwäldern erkundet werden."
 
-      - id: two-third-poi
-        title: Two Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
-
-      - id: two-fourth-poi
-        title: Two Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: poi-1-3
+        title: "Traumjob: Walflüsterer"
+        copyright:
+        description: "Vor der Halbinsel Samaná sind sie zwischen Januar und März zu Hause: Bis zu 5000 gigantische Buckelwale, die alljährlich aus arktischen Gewässern in die geschützte Bucht im Osten der Dominikanischen Republik zur Paarung kommen. Nicht nur eine einzigartige Gelegenheit, die sogenannten Akrobaten unter den Großwalen aus nächster Nähe zu bewundern, sondern auch die Chance auf einen wahren Traumjob. Bereits zum 9. Mal sucht das Tourist Board der Dominikanischen Republik in Kooperation mit Tierschutz- und Touristikpartnern einen Walflüsterer, der sich für ein paar Monate zum Botschafter der Meeressäuger macht und seine Erfahrungen mit Walen als Blog oder Podcast online verbreitet. Diese ungewöhnliche Aktion für nachhaltigen Tourismus wurde bereits mehrfach ausgezeichnet."
 
 
 
@@ -77,34 +65,61 @@
 
 
 - id: three
-  title: Section Three
-  nav-title: Three
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  path: kultur
+  title: Kulturelle Highlights
+  nav-title: Kulturelle Highlights
+  description: "Palmen und Karibikflair – das ist es, was einem in den Sinn kommt, wenn man an die Dominikanische Republik denkt. Dabei hat der Karibikstaat noch so viel mehr zu bieten. Aufregende Städte warten darauf, erkundet zu werden und bieten neben geschichtsträchtigen Sehenswürdigkeiten und aufregender Kulinarik viele weitere kulturelle Highlights. Lassen Sie sich verzaubern."
   link: "#section-link"
+  tip-title: "Barrio Chino – das Chinatown von Santo Domingo"
+  tip-content: "Das Stadtviertel Barrio Chino liegt im Norden von Santo Domingo und wird durch zwei chinesische Tore vom Rest der Stadt getrennt. Hier gibt es neben jeder Menge chinesischer Kultur auch eine Vielfalt an kulinarischen Anlaufstellen zu entdecken. Lebensmittelgeschäfte reihen sich an authentisch chinesische Restaurants – wer gerne Neues probiert und experimentierfreudig ist, kommt hier garantiert auf seine Kosten. "
 
   pois:
     items:
 
-      - id: three-first-poi
-        title: Three First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: poi-1-1
+        title: Santo Domingo – Hauptstadtflair mit Twist
+        copyright:
+        description: "Die Hauptstadt der Dominikanischen Republik ist eine der ersten Städte der Neuen Welt und wurde von Christoph Kolumbus' Bruder Bartholome im Jahre 1498 gegründet. In Santo Domingo erleben Gäste bereits beim Betreten des historischen Stadt&shy;kerns mit 300 Gebäuden aus der Kolonial&shy;zeit eine kulturelle Zeitreise. Die Straße Calle de las Damas gehört mit dem Wahrzeichen, der Catedral de Santa María Menor, zu den meist aufgesuchten Orten der Stadt, in der eine beein&shy;druckende Vergangen&shy;heit modernen Entwicklungen gegen&shy;über&shy;steht. Sowohl die Merengue-Musik als auch der Merengue-Tanz, typisch für die dortige Kultur, wurden im Jahr 2016 von der UNESCO zum immateriellen Kulturerbe der Menschheit ernannt."
 
-      - id: three-second-poi
-        title: Three Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: poi-1-2
+        title: Montecristi – die Stadt des Salzes
+        copyright:
+        description: "In der Stadt Montecristi, im landschaft&shy;lich reizvollen Nordwesten der Domini&shy;kanischen Republik, werden Touristen zwei neue Attraktionen angeboten. Zum einen die Ruta de Casas (Häuser-Route), ein Rundgang durch das malerische historische Zentrum der Stadt mit seinen alten Holz&shy;häusern und weiteren architek&shy;tonischen Höhe&shy;punkten. Zum anderen lockt das neue Salz-Zentrum Besucher an. Hier macht die Familie García, in dritter Generation Besitzer und Betreiber der örtlichen Salinen, die Her&shy;stellung von Meer&shy;salz in alter hand&shy;werk&shy;licher Tradition erlebbar."
 
-      - id: three-third-poi
-        title: Three Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: poi-1-3
+        title: Karneval in La Vega – ein unvergessliches Spektakel
+        copyright:
+        description: "Ein echtes Erlebnis ist der Karneval in La Vega. Hier bekommen Touristen an allen Sonntagen im Februar mit den Karnevals&shy;umzügen zwischen 12 und 17 Uhr ein Spektakel geboten, das seines Gleichen sucht. Die Kostüme der Diablos Cojuelos zeichnen sich durch übergroße Teufels&shy;masken aus. Jeder, der sich dafür interessiert, sollte nicht zimperlich sein, denn 'nur zuschauen' ist hier nicht: Die kostümierten Darsteller beziehen die Zuschauer in ihre Show mit ein."
 
-      - id: three-fourth-poi
-        title: Three Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+
+################################################################################
+
+
+
+- id: four
+  path: strand
+  title: Sonne & Strand
+  nav-title: Sonne & Strand
+  description: "Während hierzulande bald der Herbst Einzug hält, scheint in der Karibik ausdauernd die Sonne. Paradiesische Strände und türkisblaues Wasser warten in der Dominikanischen Rebublik auf Sie. Lesen Sie mehr über die Traumstrände des Karibikstaates und entscheiden Sie, welcher Ort als Szenerie für Ihre Sonnen-Auszeit dienen soll. Sie können sich nicht für einen entscheiden? Dann besuchen Sie doch einfach alle."
+  link: "#section-link"
+  tip-title: "Das Paradies: Cayo&nbsp;Arena"
+  tip-content: "Nordwestlich von Puerto Plata liegt das Fischerdorf Punta Rucia. Von dort aus erreichen Sie die Insel Cayo Arena bequem mit dem Boot. Dieser als Paradies-Insel bezeichnete Ort, macht seinem Namen alle Ehre: Hier erwarten Sie türkisblaues Wasser und weiße Korallenstrände – das wahre Paradies. Beim Schnorcheln im seichten Wasser entdecken Sie an den Korallen unter anderem Doktorfische und Riffbarsche."
+
+  pois:
+    items:
+
+      - id: poi-1-1
+        title: Bacardi Feeling auf Cayo Levantado
+        copyright:
+        description: "Echtes Bacardi Feeling erleben Sie auf der pitto&shy;resken Insel Cayo Levantado. Hier wurde nicht nur im Jahr 1970 der Werbe&shy;spot des berühmten Rum&shy;herstellers gedreht, dieses wunderbare Fleckchen Erde liegt auch nur etwa 5 km von der Bucht von Samaná entfernt. Vom dortigen Hafen aus fahren regelmäßig Wasser&shy;taxis zu der kleinen Insel, die nur etwa zwei Kilometer lang und einen halben Kilometer breit ist. Genießen Sie frischen Fisch in einem der Restaurants, werden Sie beim Kajakfahren und Stand-up-Paddeling aktiv oder verbringen Sie entspannte Stunden am Strand."
+
+      - id: poi-1-2
+        title: Der Naturstrand Bahía de las Águilas
+        copyright:
+        description: "Eine Bucht wie Gott sie geschaffen hat: Bahía de las Águilas ist ein etwa 8 km langer, natur&shy;belassener Strand, an dem Sie die wahre Schön&shy;heit der Domini&shy;&shy;kanischen Republik erleben können. Im Nationalpark von Jaragua gelegen, gibt es hier weder Hotels noch Geschäfte. Von Cabo Rojo aus erreichen Sie Bahía de las Águilas mit dem Boot. Alternativ können auf einer Tour durch den National&shy;park mit dem Gelände&shy;wagen einen Abstecher zu dem Strand machen."
+
+      - id: poi-1-3
+        title: Tauchen an der Playa&nbsp;Sosúa
+        copyright:
+        description: "Der Strand Playa Sosúa ist für sein glasklares Wasser und seine gut erreichbaren Tauchplätze in Küstennähe bekannt. Erkunden Sie die bunte Unter&shy;wasser&shy;welt mit all ihren Arten. Egal, ob bei einem Tauch&shy;gang oder beim Schnorcheln: Sie werden so oder so ein unver&shy;gessliches Unter&shy;wasser-Erlebnis haben. Nach einem auf&shy;regenden Tag im Wasser wartet dann der Strand auf Sie, von wo aus Sie mit einem kühlen Drink in der Hand den Sonnen&shy;untergang beobachten können."

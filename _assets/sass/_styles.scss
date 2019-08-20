@@ -1,1 +1,55 @@
 // general styles for the project that wouldn't be a reuseable component
+
+
+
+/* ==========================================================================
+   Parallax & Backgrounds
+   ========================================================================== */
+
+.bv-parallax{
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+.bv-remove-bg{
+  background-image: none!important;
+}
+
+.bv-parallax{
+  background-attachment: scroll;
+  background-size: cover;
+  }
+
+}
+
+.bv-dotted-underline{
+  border-top: 2px dotted $grey-dark;
+  &--white{
+    border-bottom: 2px dotted $white;}
+}
+
+.bv-banner-out{}
+
+
+
+
+/* ==========================================================================
+Flight tag - Offers
+========================================================================== */
+
+.flight-tag {
+  position: absolute;
+  top: $s-2;
+  left: $s-2;
+  display: block;
+  width: 50%;
+  @include bp($sm){
+    top: $s0;
+    left: $s0;
+    width: 146px;
+  }
+}

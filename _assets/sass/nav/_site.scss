@@ -3,7 +3,7 @@
 $site-nav-height:    56px;
 $site-nav-height-sm: 44px;
 $nav-width-bp:       640px;
-$nav-color:          $white;
+$nav-color:          $bv-lightblue;
 
 
 // global site nav height
@@ -18,7 +18,7 @@ $nav-color:          $white;
 
 .site-nav {
   position: relative;
-  background-color: rgba($nav-color,.75);
+  background-color: rgba($nav-color, .7);
   text-align: center;
 
   // NEEDS EXPLAINING LIKE THE CORE NAV OFFSET
@@ -76,7 +76,7 @@ $nav-color:          $white;
   &__item {
     display: flex;
     flex: 1 0 auto;
-    border-right: 1px solid rgba($white,.5);
+    //border-right: 1px solid rgba($white,.5);
     &:last-child { border-right: 0; }
   }
   &__link {
@@ -91,7 +91,7 @@ $nav-color:          $white;
     font-size: 11px;
     letter-spacing: .2em;
     text-transform: uppercase;
-    color: $grey-darker;
+    color: $white;
     transition: background-color $transition-time ease;
     white-space: nowrap;
     &.is-current      { background-color: rgba($nav-color,1); }
