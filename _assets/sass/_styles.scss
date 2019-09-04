@@ -32,7 +32,19 @@
     border-bottom: 2px dotted $white;}
 }
 
+
+.bv-mob-hide{
+
+  display: none;
+
+  @include bp($md){
+      display: block;
+  }
+}
+
+
 .bv-banner-out{}
+
 
 
 

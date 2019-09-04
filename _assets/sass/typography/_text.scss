@@ -3,10 +3,10 @@
 .text {
   font-family: $font-01;
   // sizes
-  &--xxxl { font-size: 1.3rem; line-height: 1.33; letter-spacing: 0; }
-  &--xxl { font-size: 1.2rem; line-height: 1.3; letter-spacing: 0; }
-  &--xl  { font-size: 1.1rem; line-height: 1.2; letter-spacing: 0; }
-  &--lg  { font-size: 1.05rem; letter-spacing: 0; }
+  &--xxxl { font-size: 1.3rem; line-height: 1.45; letter-spacing: 0; }
+  &--xxl { font-size: 1.2rem; line-height: 1.45; letter-spacing: 0; }
+  &--xl  { font-size: 1.1rem; line-height: 1.5; letter-spacing: 0; }
+  &--lg  { font-size: 1.05rem; line-height: 1.45; letter-spacing: 0; }
   &--sm  { font-size: .8rem; }
 
   // styles

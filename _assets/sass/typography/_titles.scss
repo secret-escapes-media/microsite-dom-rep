@@ -3,7 +3,7 @@
 .title {
   // custom content headline
   font-family: $font-01;
-  line-height: 1.1;
+  line-height: 1.2;
   &--xxxl   { font-size: $s8; }
   &--xxl    { font-size: $s7; }
   &--xl     { font-size: $s6; }
@@ -36,7 +36,7 @@
   &--lg     { font-size: $s4; }
   &--sm     { font-size: $s0; }
   @include bp($lg){
-    font-size: $s6; // default size
+    font-size: $s5; // default size
     &--lg     { font-size: $s5; }
     &--sm     { font-size: $s1; }
   }
@@ -49,7 +49,9 @@
   letter-spacing: 4px;
   font-weight: 200;
   line-height: 1.1;
-  font-size: $s6;
-  @include bp($md){ font-size: $s8; }
-  @include bp($xl){ font-size: $s11; }
+  font-size: 9vw;
+  @include bp($sm){ font-size: 9vw; }
+  @include bp($md){ font-size: 9vw; }
+  @include bp($xl){ font-size: $s9; }
+  @include bp($xxl){ font-size: $s9; }
 }

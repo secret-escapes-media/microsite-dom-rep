@@ -101,15 +101,15 @@ $offer-max-width: 560px;
       margin-left: $s-6;
       text-align: center;
       color: $turquoise;
-      font-weight: 700;
       letter-spacing: 0;
-      line-height: $circle-height;
-      border: 1px solid rgba($turquoise,.40);
+      line-height: $circle-height/1.05;
+      border: 1px solid rgba($turquoise,1);
       border-radius: $circle-height;
     }
   }
   &__details {
     display: inline-block;
+    line-height: 1.3;
   }
   &__separator {
     display: inline-block;
