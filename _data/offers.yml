@@ -1,13 +1,3 @@
-- title: Dominikanische Republik deluxe
-  location: Le Sivory Punta Cana by PortBlue Boutique, Punta Cana, Dominikanische Republik
-  description: Suiten-Luxus - inkl. All-inclusive mit Gourmetküche, Spa- & Dinner-Ermäßigung sowie Extras
-  price: 210
-  price-description: pro Suite pro Nacht
-  saved: 38
-  expires: 2019/09/23
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/30782/aa1519b4_4fcf_45ff_8c21_0fa995a74f87.jpg?auto=format,compress
-  link: http://bit.ly/2kinZij
-
 - title: Verwöhnung in der Dominikanischen Republik
   location: Ocean Blue & Sand All Inclusive Resort, Punta Cana, Dominikanische Republik
   description: Sonnenauszeit direkt am Strandabschnitt Bravaro – inkl. All-inclusive, Spa-Ermäßigung & Extras
@@ -18,26 +8,6 @@
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/90302/b234164e_a032_4f66_8b1d_2fe0b3296d7f.jpg?auto=format,compress
   link: http://bit.ly/2kNXrp5
 
-- title: Karibische Beach-Vibes an der Kokosküste
-  location: Secrets Royal Beach Punta Cana, Dominikanische Republik
-  description: Pures Paradies-Feeling im Adults-only-Resort inkl. Flügen, Transfers & All-inclusive
-  price: 1366
-  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
-  saved: 18
-  expires: 2019/09/30
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101449/7a284269_16c2_44d3_943d_bf68f850a25a.jpg?auto=format,compress
-  link: http://bit.ly/2kz0Xnr
-
-- title: "Karibik de luxe: Dominikanische Republik"
-  location: Le Sivory Punta Cana by PortBlue Boutique Hotel, Punta Cana, Dominikanische Republik
-  description: Adults-only-Luxus – inkl. Flügen, Privattransfers, Suite am Meer & All-inclusive
-  price: 1459
-  price-description: pro Person.basierend auf 2 Personen für 7 Nächte
-  saved: 21
-  expires: 2019/10/07
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/405/1204d1dd_20b3_4576_91c9_c2e751542970.jpg?auto=format,compress
-  link: http://bit.ly/2kXCtEs
-
 - title: All-inclusive in der Dominikanischen Republik
   location: Breathless Punta Cana Resort & Spa, Punta Cana, Dominikanische Republik
   description: Adults-only-Resort am weißen Sandstrand – inkl. All-inclusive
@@ -45,5 +15,15 @@
   price-description: pro Suite pro Nacht
   saved: 39
   expires: 2019/10/14
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/97540/f1d0b9c1_b1eb_4aaf_8907_41261d7879e4.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/97540/79dad9d2_91fb_48a8_8af1_42d54911caa9.jpg?auto=format,compress
+  link: http://bit.ly/2kXCtEs
+
+- title: "Karibik de luxe: Dominikanische Republik"
+  location: Le Sivory Punta Cana by PortBlue Boutique Hotel, Punta Cana, Dominikanische Republik
+  description: Adults-only-Luxus – inkl. Flügen, Privattransfers, Suite am Meer & All-inclusive
+  price: 1349
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
+  saved: 21
+  expires: 2019/10/07
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/405/666a4342_1584_49d9_abac_62abb22bff7c.jpg?auto=format,compress
   link: http://bit.ly/2mke4K2
